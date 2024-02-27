@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel!
-- 👀 I’m interested in frontend development, creative coding & writing.
+- 👀 I’m interested in frontend development, creative coding & writing. Currently learning Go.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 You can contact me on Twitter: [@danielvoicu](https://twitter.com/danielvoicu)
 
